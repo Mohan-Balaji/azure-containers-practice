@@ -62,7 +62,3 @@ azure-containers-practice/
 * [Azure Kubernetes Service Documentation](https://learn.microsoft.com/en-us/azure/aks/)
 * [Docker Docs](https://docs.docker.com/)
 * [Azure Container Registry Documentation](https://learn.microsoft.com/en-us/azure/container-registry/)
-
-## 🙌 Contributions
-
-Feel free to fork, open issues, or suggest improvements.
